@@ -11,6 +11,16 @@ O objetivo é simples: **girar as faces do cubo até completar todas as cores co
 - **Arraste uma face do cubo** até selecionar **3 quadradinhos** para girar aquela face.
 - **Arraste o fundo** da tela para orbitar a câmera ao redor do cubo.
 
+## 🌐 Demo online
+
+Você pode jogar o Cubo Mágico diretamente no navegador, via GitHub Pages:
+
+👉 https://ivanferrer.github.io/cubo-magico/
+
+> ⚠️ Observação  
+> Este projeto utiliza ES Modules e **não funciona** ao abrir o arquivo `index.html` diretamente (`file://`).  
+> Ele deve ser executado via **HTTP/HTTPS**, como no link acima.
+
 ### Controles
 
 - **Embaralhar** — mistura o cubo automaticamente.
